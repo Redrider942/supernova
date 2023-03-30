@@ -1,0 +1,51 @@
+<style>
+h1 {
+	text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #00ECFF;
+}
+
+.marq{
+	font-size: 25px;
+}
+
+.h1{
+	font-size:30px;
+}
+
+.lis{
+	color: white;
+}
+
+.cont{
+	font-size: 25px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #878483;
+}
+body, html {
+  height: 100%;
+  margin: 0;
+}
+con{
+ color: "#00ECFF";
+}
+</style>
